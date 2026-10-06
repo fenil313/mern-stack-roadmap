@@ -3,9 +3,9 @@ import {inline} from './inline'
 
 const App = () => {
   return (
-    <div>
+    <>
         <inline />
-    </div>
+    </>
   )
 }
 
