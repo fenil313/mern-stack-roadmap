@@ -1,0 +1,36 @@
+// we can use a js like a css three type inline,internal,external
+
+Introduction to JavaScript
+ Basically, Java is a full programming language developed by Sun Microsystems with formal structure.
+ But, JavaScript is a scripting language developed by Netscape that is used to modify web pages.
+ The JavaScript must be written in the HTML document between container tag <SCRIPT>....</SCRIPT>
+ Special Attribute For <script> tag is, type=“text/javascript”.
+
+Use to JavaScript
+ JavaScript provides programming tool to HTML designer.
+ JavaScript can put dynamic text in HTML page.
+ JavaScript can react to events.
+ JavaScript can read and write HTML elements.
+ JavaScript can be used to validate data.
+ JavaScript can be used to detect the visitor’s browse.
+ JavaScript can be used to create cookies.
+Features of JavaScript
+ JavaScript is case sensitive
+o JavaScript is case sensitive so the functions which have lowercase should be written like that.
+o If we want to use write() function of JavaScript then we cannot use it as Write().
+o In JavaScript variables are also case sensitive so variable “a” is not same as “A”.
+ The Symbols must be closed if opened
+o In JavaScript, symbols like ({“ ‘ , Such symbols if used then it must closed like, ’ ” }).
+ White space is ignored
+o White space are space, tab and new line.
+o These all kind of white spaces are ignored by the JavaScript.
+ Comments
+o We can put comments in JavaScript
+ Single Line “//” slash is used.
+ For multi line comment /* */
+ Ending statements with semicolon
+o In JavaScript the semicolons are optional.
+o But if we want to put new statement in same line we can use Semicolon.
+o Example of Semicolon..
+
+ document.write("Hello"); document.write("Test");
